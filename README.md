@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:04050b,50:1b1149,100:39ff88&height=200&section=header&text=Swastik%20Saha&fontColor=e8ecff&fontSize=52&fontAlignY=32&desc=founder%20@%20Aventiq%20Global%20%E2%80%A2%20bits%20%2B%20atoms&descSize=16&descAlignY=52" alt="Swastik Saha" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=39FF88&center=true&vCenter=true&width=620&lines=Founder+%40+Aventiq+Global+(in+registration);Full-stack+%2B+AI+builder;ESP32+%26+embedded+tinkerer;3D+printing+%26+CAD+nerd;SIH+2025+team+lead+%7C+Make-a-thon+winner" alt="what I do" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=39FF88&center=true&vCenter=true&width=620&lines=Founder+%40+Aventiq+Global+(in+registration);Full-stack+%2B+AI+builder;ESP32+%26+embedded+tinkerer;3D+printing+%26+CAD+nerd;SIH+2024+top+10+team+lead;Make-a-thon+winner+2026;Decentralized+agency%2C+pocket-friendly+builds" alt="what I do" />
 
 <br/>
 
@@ -24,13 +24,16 @@ swastik@aventiq:~$ whoami
 > both sides of the screen: React / FastAPI apps, AI tooling and MCP servers on one side —
 > ESP32 boards, sensors and 3D-printed enclosures on the other.
 >
-> I founded **Aventiq Global** to turn those experiments into real products. It is still in
-> development and going through registration.
+> I founded **Aventiq Global**, a tech firm run as a *decentralized agency*: instead of a fixed
+> in-house team we bring in freelancers and aspiring developers and hand them real client work.
+> Lower overhead means pocket-friendly pricing for clients, paid experience for people breaking
+> into the field, and no compromise on what ships. Delivered so far: **FSW**, **Venky's**,
+> **Blobby**. The firm is still in development and going through registration.
 
 | | |
 |---|---|
-| 🏆 **SIH 2025** | Top 10 in the SRMIST internal selection — **team lead** |
-| 🚨 **Make-a-thon** | **Winner** — hardware prototype for search-and-rescue teams |
+| 🏆 **SIH 2024** | Top 10 in the SRMIST internal selection — **team lead** |
+| 🚨 **Make-a-thon** | **Winner**, most recent — hardware prototype for search-and-rescue teams |
 | 🛡️ **Aanchal** | Personal safety brooch + offline-first Flutter companion app |
 | 🖨️ **Print Studio** | A full 3D printing studio: CAD → print → finish → small batches |
 
@@ -53,8 +56,8 @@ Women's safety companion in Flutter: one-tap SOS, safe-route maps, peer-to-peer 
 broadcast over Nearby Connections, AI fake calls. Offline-first.
 
 ### 🏋️ [FiZi](https://github.com/Swastik1204/FiZi)
-AI fitness trainer — real-time posture correction from the webcam. React + Vite frontend,
-FastAPI backend, separate ML workspace.
+Built with the **VCRV Lab, SRMIST**: a state-of-the-art body-tracking exercise app that corrects
+your form live, to promote personal well-being. React + Vite, FastAPI, own ML workspace.
 
 </td>
 <td width="50%" valign="top">
@@ -82,7 +85,7 @@ swastik@aventiq:~$ cat ./arsenal
 
 <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,vite,nodejs,express,fastapi,flutter,dart,tailwind,firebase,sqlite,mongodb,arduino,raspberrypi,opencv,figma,git,github,vercel&theme=dark&perline=11" alt="tech stack" />
 
-**Also:** ESP32 · BLE · Fusion 360 · FDM & resin printing · slicer tuning · MCP servers · knowledge graphs · pose estimation
+**Also:** ESP32 · BLE · Fusion 360 · multi-material FDM printing · slicer tuning · MCP servers · knowledge graphs · pose estimation
 
 </div>
 
