@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/portfolio-mission_control-39ff88?style=for-the-badge&labelColor=04050b)](https://github.com/Swastik1204)
+[![Portfolio](https://img.shields.io/badge/portfolio-swastik.antideploy.com-39ff88?style=for-the-badge&labelColor=04050b)](https://swastik.antideploy.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-swastik--saha-4de8ff?style=for-the-badge&labelColor=04050b&logo=linkedin&logoColor=4de8ff)](https://www.linkedin.com/in/swastik-saha/)
 [![Mail](https://img.shields.io/badge/mail-swastiksaha1204-ff4fd8?style=for-the-badge&labelColor=04050b&logo=gmail&logoColor=ff4fd8)](mailto:swastiksaha1204@gmail.com)
 
@@ -56,11 +56,19 @@ Women's safety companion in Flutter: one-tap SOS, safe-route maps, peer-to-peer 
 broadcast over Nearby Connections, AI fake calls. Offline-first.
 
 ### 🏋️ [FiZi](https://github.com/Swastik1204/FiZi)
-Built with the **VCRV Lab, SRMIST**: a state-of-the-art body-tracking exercise app that corrects
+Built with the **VCRC Lab, SRMIST**: a state-of-the-art body-tracking exercise app that corrects
 your form live, to promote personal well-being. React + Vite, FastAPI, own ML workspace.
 
 </td>
 <td width="50%" valign="top">
+
+### 🧬 Ultron
+My personal agentic harness — the rig I run my own AI agents on: tool access, persistent
+memory, task routing and guardrails on anything destructive.
+
+### 🛰️ EVE
+My personal assistant, running entirely on my own hardware, with one control surface across
+every device I own — desktop, phone and the ESP32 gear around the flat.
 
 ### 🕸️ [NeuroLearn](https://github.com/Swastik1204/neurolearn)
 AI-assisted learning platform that maps study material into a connected concept graph.
